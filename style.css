@@ -13,16 +13,14 @@ background-color: limegreen;
 #status
 {
 font-size: 18px;
+background-color: purple;
+    color:white;
 }
 .heading:hover{
     background-color: yellow;
 }
-#status{
-    background-color: purple;
-    color:white;
-}
 canvas{
 box-shadow: 5px 5px 18px palevioletred;
 border-radius: 20px;
-margin-top: 40px;
+margin-top: 150px;
 }
